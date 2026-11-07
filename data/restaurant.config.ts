@@ -80,7 +80,7 @@ export const restaurantConfig: RestaurantConfig = {
   // Change identity, brand colours and metadata here for a new client.
   name: "One Burger— Bun & Flame",
   tagline: "One Burger: A modern Burger Kitchen in Adama",
-  title: "Burger — Smash Burgers, Fries & Shakes in Adama",
+  title: "One Burger — Smash Burgers, Fries & Shakes in Adama",
   description: "A laid-back burger kitchen serving juicy smash burgers, loaded fries, cold drinks and thick shakes in the heart of Adama.",
   url: "https://burger.example.com",
   cuisine: "Burgers",
@@ -106,7 +106,7 @@ export const restaurantConfig: RestaurantConfig = {
       postalCode: "",
       country: "ET",
     },
-    mapsUrl: "https://maps.google.com/?q=Adama+Oromia",
+    mapsUrl: "https://maps.app.goo.gl/LyZ9kU63JVFTfTpd9",
   },
   social: { instagram: "https://instagram.com/", facebook: "https://facebook.com/" },
   hours: [
@@ -145,7 +145,7 @@ export const restaurantConfig: RestaurantConfig = {
         id: "burgers", label: "Burgers", note: "The reason you came.", items: [
           { name: "The Bun & Flame", description: "Double smashed beef patties, American cheese, caramelised onions, pickles and our smoky house sauce.", price: 580, image: "https://images.unsplash.com/photo-1550547660-d9450f859349?auto=format&fit=crop&w=900&q=85", imageAlt: "Double cheeseburger with pickles and caramelised onions", tags: ["signature", "popular"] },
           { name: "Classic Cheeseburger", description: "A smashed beef patty, melted cheddar, shredded lettuce, tomato, onion and burger sauce in a toasted bun.", price: 450, image: "https://images.unsplash.com/photo-1565299507177-b0ac66763828?auto=format&fit=crop&w=900&q=85", imageAlt: "Classic cheeseburger with lettuce and tomato", tags: ["popular"] },
-          { name: "Crispy Chicken", description: "Crunchy fried chicken, cool slaw, pickles and hot honey mayo on a soft toasted bun.", price: 520, image: "https://images.unsplash.com/photo-1615297928064-24977384d0e8?auto=format&fit=crop&w=900&q=85", imageAlt: "Crispy fried chicken burger with slaw", tags: ["new"] },
+         
           { name: "Green Stack", description: "Crispy veggie patty, cheddar, lettuce, tomato, avocado and herb mayo.", price: 480, image: "https://images.unsplash.com/photo-1520072959219-c595dc870360?auto=format&fit=crop&w=900&q=85", imageAlt: "Vegetarian burger with fresh green toppings", tags: ["v"] },
         ]
       },
@@ -198,7 +198,7 @@ export const restaurantConfig: RestaurantConfig = {
   takeout: { enabled: true, label: "Order by WhatsApp", href: "https://wa.me/251912345678", note: "Message us for today’s availability and collection details." },
   footer: {
     note: "Demo website — burgers, fries and good times in Adama.",
-    creatorName: "Gosag Girma",
+    creatorName: "Gosa Girma",
     creatorUrl: "https://gosagirma.me",
   },
 };
