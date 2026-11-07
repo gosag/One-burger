@@ -94,11 +94,11 @@ export const restaurantConfig: RestaurantConfig = {
     olive: "#687143",
   },
   contact: {
-    phone: "+251 90 000 0000",
-    phoneHref: "+25190000000",
-    whatsappNumber: "251952742250",
-    whatsappUrl: "https://wa.me/251952742250",
-    email: "hello@example.com",
+    phone: "+251 945 818 284",
+    phoneHref: "+251945818284",
+    whatsappNumber: "251945818284",
+    whatsappUrl: "https://wa.me/251945818284",
+    email: "hello@oneburger.com",
     address: {
       street: "",
       city: "Adama",
